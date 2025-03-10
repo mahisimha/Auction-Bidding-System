@@ -165,7 +165,7 @@ project/
 
 ## 📬 Contact
 
-For any questions or issues, please contact [saimihirnath.nayakanti1@gmail.com](saimihirnath.nayakanti1@gmail.com).
+For any questions or issues, please contact [mahisimhachalreddy1@gmail.com](mahisimhachalreddy1@gmail.com).
 
 ```plaintext
 Feel free to customize any sections or details to better fit your project or preferences!
